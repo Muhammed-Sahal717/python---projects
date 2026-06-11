@@ -1,0 +1,4 @@
+john john123@gmail.com 10:30
+alice alice@gmail.com 14:45
+bob invalid-email 25:61
+sam sam@gmail.com 09:20
